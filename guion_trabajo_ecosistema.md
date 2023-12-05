@@ -101,5 +101,11 @@ En definitiva, tratad de no perder la cabeza con esto. Lo importante es estar bi
 
 ## Ejemplo
 
-El devenir de las clases (en realidad, vuestras interesantísimas preguntas  y los estupendos debates que tenemos en clase) ha impedido que veamos en vivo un ejemplo de un ecosistema descrito con los criterios mostrados más arriba. Así que, para que tengáis una referencia, he grabado un pequeño vídeo en el que se describen las dehesas con la misma perspectiva que tendréis que usar vosotros con vuestro ecosistema tipo. Lo que veis a continuación es mi visión del asunto. La vuestra puede tener formas diferentes (usando recursos gráficos diferentes o no) y contenidos también distintos. Si alguien se anima a usar un esquema como el que propongo, lo he hecho con la aplicación [draw.io](https://www.drawio.com/blog/diagrams-offline). Aquí podéis descargar el esquema que he usado para describir la dehesa. 
+El devenir de las clases (en realidad, vuestras interesantísimas preguntas  y los estupendos debates que tenemos en clase) ha impedido que veamos en vivo un ejemplo de un ecosistema descrito con los criterios mostrados más arriba. Así que, para que tengáis una referencia, he grabado un pequeño vídeo en el que se describen las dehesas con la misma perspectiva que tendréis que usar vosotros con vuestro ecosistema tipo. Lo que veis a continuación es mi visión del asunto. La vuestra puede tener formas diferentes (usando recursos gráficos diferentes o no) y contenidos también distintos. Si alguien se anima a usar un esquema como el que propongo, lo he hecho con la aplicación [draw.io](https://www.drawio.com/blog/diagrams-offline). [Aquí](https://github.com/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa/raw/2023-2024/presentacion/dehesa.drawio.zip) podéis descargar el esquema que he usado para describir la dehesa. 
+
+Dentro vídeo :)
+
+
+
+<iframe width="560" height="515" src="https://www.youtube.com/embed/EHHydHAHruM?si=kc3WwH1J8eJdmp68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
