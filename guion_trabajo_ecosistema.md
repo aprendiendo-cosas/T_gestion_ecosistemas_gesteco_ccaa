@@ -91,3 +91,15 @@ Para calificar el trabajo realizado se usará una rúbrica con los siguientes cr
 
 
 
+Esta rúbrica se aplicará teniendo en cuenta lo siguiente:
+
++ Soy consciente del poco tiempo del que disponéis para hacer esta actividad. Seré comprensivo con vuestra disponibilidad
++ El foco está en el aprendizaje no en satisfacer los criterios del trabajo completo. Es decir, si alguien o algún grupo no consigue un trabajo que se pueda considerar finalizado, se valorará igualmente una reflexión profunda sobre los problemas encontrados, formas de abordaje, etc.
+
+En definitiva, tratad de no perder la cabeza con esto. Lo importante es estar bien. Eso fomenta el aprendizaje profundo. Lo importante no es el resultado, sino lo que hayáis aprendido por el camino.
+
+
+## Ejemplo
+
+El devenir de las clases (en realidad, vuestras interesantísimas preguntas  y los estupendos debates que tenemos en clase) ha impedido que veamos en vivo un ejemplo de un ecosistema descrito con los criterios mostrados más arriba. Así que, para que tengáis una referencia, he grabado un pequeño vídeo en el que se describen las dehesas con la misma perspectiva que tendréis que usar vosotros con vuestro ecosistema tipo. Lo que veis a continuación es mi visión del asunto. La vuestra puede tener formas diferentes (usando recursos gráficos diferentes o no) y contenidos también distintos. Si alguien se anima a usar un esquema como el que propongo, lo he hecho con la aplicación [draw.io](https://www.drawio.com/blog/diagrams-offline). Aquí podéis descargar el esquema que he usado para describir la dehesa. 
+
